@@ -1,0 +1,27 @@
+
+body{
+    display: flex;
+    justify-content: center;
+}
+
+.div1 {
+    font-family: "Protest Riot", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    
+}
+.div1 h1{
+    margin: 1.5rem;
+    color: #2A2F33;
+}
+.div1 input{
+    margin: 1rem;
+    border:2px solid black;
+    border-radius: 15px;
+    height: 40px;
+    width: 250px;
+}
+
+
+
+  
